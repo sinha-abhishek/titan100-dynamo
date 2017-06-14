@@ -1,6 +1,6 @@
 ## Docker image for titan over dynamo db
 
-This is docker image for running graph database "Titan":http://titandb.io using "Amazon DynamoDB":https://aws.amazon.com/dynamodb/ as scalable storage backend
+This is docker image for running graph database [Titan](http://titandb.io) using [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) as scalable storage backend
 
 ### Docker hub 
 sinhaabhishek/titan100-dynamo
